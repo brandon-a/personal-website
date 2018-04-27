@@ -9,7 +9,7 @@ Hi, I'm Brandon, I'm a Computer Scientist seeking an internship for Summer 2018.
 ## Testimonials
 
 > He's good.
-> - Somebody
+> \- Somebody
 
 ### Projects
 
