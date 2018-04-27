@@ -23,7 +23,7 @@ Bachelor of Science: Computer Science - San Jose State University 2019
 
 ![Skills](assets/skills.png)
 
-##### Favorite Things
+# Favorite Things
 
 1.  Dogs
 2.  Coding
