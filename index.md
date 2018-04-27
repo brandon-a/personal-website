@@ -2,17 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 # About Me
 
-Hi, I'm Brandon, I'm a Computer Scientist seeking an internship for Summer 2018. I am skilled in Java, C++, Scala, Git, GitHub, Slack, Bitbucket, and Adobe XD. I also have a working knowledge of Python, Swift, and Javascript.
+Hi, I'm Brandon, I'm a Computer Scientist seeking an internship for Summer 2018. I love tinkering, technology, coding, video games, and chocolate ice cream.
 
 ## Testimonials
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> He's good.
+> - Somebody
 
 ### Projects
 
@@ -33,15 +30,20 @@ end
 
 #### Skills
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Java
+*   C++
+*   Scala
+*   Jekyll
+*   Git
+*   Microsoft Visual Studio
+*   IntelliJ
+*   Adobe XD
 
 ##### Favorite Things
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Dogs
+2.  Coding
+3.  Hot Chocolate
 
 ###### Favorite Foods
 
