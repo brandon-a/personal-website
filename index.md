@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hi, I'm Brandon, I'm a Computer Scientist seeking an internship for Summer 2018. I love tinkering, technology, coding, video games, and chocolate ice cream.
+Hi, I'm Brandon, I'm a Computer Scientist seeking an internship in Software Engineering. I've always been passionate about computers and it has driven me to learn more about them and has brought me to love creating things with code.
 
 # Education
 
