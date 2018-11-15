@@ -4,15 +4,16 @@ layout: default
 
 # About Me
 
-Hi, I'm Brandon, I'm a Computer Scientist seeking an internship in Software Engineering. I am skilled in Java and C++ and I have experience in Scala, Python, Javascript, and Swift. Currently I am working on a Chrome Extention to enhance the functionality of SJSU's class registration portal. I love creating things and would jump at the opportunity to create something great.
+Hi, I'm Brandon, I am a Computer Scientist seeking an internship in Software Engineering. I am skilled in Java and I have experience in C, C++, Scala, Python, Javascript, and Swift. Currently I am working on a Chrome Extention to enhance the functionality of SJSU's class registration portal. Please contact me using the link above, and I will get back to you promptly.
 
 # Education
 
-Bachelor of Science: Computer Science - San Jose State University 2019
+Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 # Skills
 
 *   Java
+*   C
 *   C++
 *   Scala
 *   Jekyll
@@ -22,12 +23,5 @@ Bachelor of Science: Computer Science - San Jose State University 2019
 *   Adobe XD
 
 ![Skills](assets/skills.png)
-
-# Favorite Things
-
-1.  Dogs
-2.  Coding
-3.  Games
-4.  Hot Chocolate
 
 [Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
