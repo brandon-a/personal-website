@@ -34,16 +34,19 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 ## Lunar Lander Game - 2019
 
 3D Spaceship lander game built using openFrameworks. Players goal is to get points from landing within the designated landing zones.
+
 ![Lunar-Lander](assets/lunar-lander.gif)
 
 ## Whiteboard Project - 2017
 
 Whiteboard application built using Java Swing enabling users to share their whiteboards with others in real time.
+
 ![Whiteboard](assets/whiteboard.gif)
 
 ## Car Builder Application - 2017
 
 Car builder application built using a Java backend and an HTML frontend, enables the user to customize car features and see a customized price.
+
 ![Car-Builder1](assets/car-builder-1.png)
 ![Car-Builder2](assets/car-builder-2.png)
 
