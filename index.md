@@ -31,17 +31,23 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 ![Space-Shooter](assets/space-shooter.gif)
 
+[Link to Code](https://github.com/brandon-a/2D-Shooter)
+
 ## Lunar Lander Game - 2019
 
 3D Spaceship lander game built using openFrameworks. Players goal is to get points from landing within the designated landing zones.
 
 ![Lunar-Lander](assets/lunar-lander.gif)
 
-## Whiteboard Project - 2017
+[Link to Code](https://github.com/brandon-a/lunar-lander)
+
+## Whiteboard Project (Group Project) - 2017
 
 Whiteboard application built using Java Swing enabling users to share their whiteboards with others in real time.
 
 ![Whiteboard](assets/whiteboard.gif)
+
+[Link to Code](https://github.com/brandon-a/whiteboard)
 
 ## Car Builder Application - 2017
 
@@ -50,5 +56,6 @@ Car builder application built using a Java backend and an HTML frontend, enables
 ![Car-Builder1](assets/car-builder-1.png)
 ![Car-Builder2](assets/car-builder-2.png)
 
+[Link to Code](https://github.com/brandon-a/KBB-Application)
 
 [Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
