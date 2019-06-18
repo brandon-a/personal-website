@@ -29,7 +29,7 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 2D Space shooter game built using openFrameworks. Players try to destroy as many enemey spacecrafts as possible.
 
-[Space-Shooter](assets/space-shooter.gif)
+![Space-Shooter](assets/space-shooter.gif)
 
 ## Lunar Lander Game - 2019
 
