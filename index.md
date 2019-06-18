@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hi, I'm Brandon, I am a Software Engineering Internship for Summer and or Fall 2019. I am skilled in Java and I have experience in C, C++, Scala, Python, Javascript, and Swift. Please contact me using the link above, and I will get back to you promptly.
+Hi, I'm Brandon, I am currently looking for a Software Engineering Internship for Summer and or Fall 2019. I am skilled in Java and I have experience in C, C++, Scala, Python, Javascript, and Swift. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
 
 # Education
 
@@ -27,20 +27,25 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 ## Space Shooter Game - 2019
 
-2D Space shooter game built using openFrameworks. Players try to destroy as many enemey spacecrafts as possible.
+2D Space shooter game built using openFrameworks. Players try to destroy as many enemy spacecraft as possible.
 
 ![Space-Shooter](assets/space-shooter.gif)
 
 ## Lunar Lander Game - 2019
 
 3D Spaceship lander game built using openFrameworks. Players goal is to get points from landing within the designated landing zones.
+![Lunar-Lander](assets/lunar-lander.gif)
 
 ## Whiteboard Project - 2017
 
 Whiteboard application built using Java Swing enabling users to share their whiteboards with others in real time.
+![Whiteboard](assets/whiteboard.gif)
 
 ## Car Builder Application - 2017
 
-Customize car features and see a customized price.
+Car builder application built using a Java backend and an HTML frontend, enables the user to customize car features and see a customized price.
+![Car-Builder1](assets/car-builder-1.png)
+![Car-Builder2](assets/car-builder-2.png)
+
 
 [Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
