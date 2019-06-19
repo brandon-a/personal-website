@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hi, I'm Brandon, I am currently seeking a Software Engineering Internship for Summer and or Fall 2019. I am skilled in Java and I have experience in C, C++, Scala, Python, Javascript, and Swift. You may see some of the projects I have worked on below. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
+Hi, I'm Brandon, I am currently seeking a Software Engineering Internship for Summer and or Fall 2019. I am skilled in Java and C++ and I have experience in C, Scala, Python, Javascript, and Swift. You may see some of the projects I have worked on below. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
 
 # Education
 
@@ -16,10 +16,12 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 *   C
 *   C++
 *   Scala
+*   Git
+*   Linux
 *   OOD Design Patterns
 *   Agile Development
-*   Git
 *   Microsoft Visual Studio
+*   Xcode
 *   IntelliJ
 *   Adobe XD
 
