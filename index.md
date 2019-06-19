@@ -13,8 +13,8 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 # Skills
 
 *   Java
-*   C
 *   C++
+*   C
 *   Scala
 *   Git
 *   Linux
