@@ -18,6 +18,7 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 *   Scala
 *   Git
 *   Linux
+*   Data Structures & Algorithms
 *   OOD Design Patterns
 *   Agile Development
 *   Microsoft Visual Studio
@@ -60,4 +61,11 @@ Car builder application built using a Java backend and an HTML frontend, enables
 
 [Link to Code](https://github.com/brandon-a/KBB-Application)
 
-[Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
+## Fun
+
+*   [Favorite Text Editor: VS Code](https://code.visualstudio.com/)
+*   [Favorite Linux Distribution: Arch Linux](https://www.archlinux.org/)
+*   [Favorite Shell: Zsh](http://zsh.sourceforge.net/)
+
+
+# [Contact Me](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
