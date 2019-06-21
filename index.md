@@ -34,7 +34,7 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 ![Space-Shooter](assets/space-shooter.gif)
 
-[Link to Code](https://github.com/brandon-a/2D-Shooter)
+[Link to Code](https://github.com/brandon-a/2D-Shooter){:target="_blank"}
 
 ## Lunar Lander Game - 2019
 
@@ -42,7 +42,7 @@ Bachelor of Science: Computer Science - San Jose State University Fall 2019
 
 ![Lunar-Lander](assets/lunar-lander.gif)
 
-[Link to Code](https://github.com/brandon-a/lunar-lander)
+[Link to Code](https://github.com/brandon-a/lunar-lander){:target="_blank"}
 
 ## Whiteboard Project (Group Project) - 2017
 
@@ -50,7 +50,7 @@ Whiteboard application built using Java Swing enabling users to share their whit
 
 ![Whiteboard](assets/whiteboard.gif)
 
-[Link to Code](https://github.com/brandon-a/whiteboard)
+[Link to Code](https://github.com/brandon-a/whiteboard){:target="_blank"}
 
 ## Car Builder Application - 2017
 
@@ -59,13 +59,13 @@ Car builder application built using a Java backend and an HTML frontend, enables
 ![Car-Builder1](assets/car-builder-1.png)
 ![Car-Builder2](assets/car-builder-2.png)
 
-[Link to Code](https://github.com/brandon-a/KBB-Application)
+[Link to Code](https://github.com/brandon-a/KBB-Application){:target="_blank"}
 
 ## Fun
 
-*   [Favorite Text Editor: VS Code](https://code.visualstudio.com/)
-*   [Favorite Linux Distribution: Arch Linux](https://www.archlinux.org/)
-*   [Favorite Shell: Zsh](http://zsh.sourceforge.net/)
+*   [Favorite Text Editor: VS Code](https://code.visualstudio.com/){:target="_blank"}
+*   [Favorite Linux Distribution: Arch Linux](https://www.archlinux.org/){:target="_blank"}
+*   [Favorite Shell: Zsh](http://zsh.sourceforge.net/){:target="_blank"}
 
 
-# [Contact Me](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
+# [Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
