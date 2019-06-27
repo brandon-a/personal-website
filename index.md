@@ -68,4 +68,4 @@ Car builder application built using a Java backend and an HTML frontend, enables
 *   [Favorite Shell: Zsh](http://zsh.sourceforge.net/){:target="_blank"}
 
 
-# [Contact Me!](https://goo.gl/forms/a9pudj0Qp75bmENh1 "Contact Me!")
+# [Contact Me!](https://b7g53.typeform.com/to/cVQ4m2 "Contact Me!")
