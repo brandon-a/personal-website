@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hi, I'm Brandon, I am currently seeking a full time Software Engineering position. I am skilled in Java and C++ and I have experience in Python, C, Javascript, and Swift. You may see some of the projects I have worked on below. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
+Hi, I'm Brandon, I love building software and making things work! I am skilled in Java and C++ and I have experience in Python, C, and Javascript. You may see some of the projects I have worked on below. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
 
 # Education
 
