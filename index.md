@@ -9,7 +9,8 @@ Hi, I'm Brandon, I love building software and making things work! I am skilled i
 # Education
 
 Bachelor of Science: Computer Science - San Jose State University Fall 2019
-![SJSU-Logo](assets/SJSU-logo.png)
+
+**Certficates:** *Basic Certificate in Cybersecurity Fundamentals*
 
 # Skills
 
@@ -63,7 +64,7 @@ Car builder application built using a Java backend and an HTML frontend, enables
 ## Fun
 
 *   [Favorite Text Editor: VS Code](https://code.visualstudio.com/){:target="_blank"}
-*   [Favorite Linux Distribution: Arch Linux](https://www.archlinux.org/){:target="_blank"}
+*   [Favorite Linux Distribution: Pop!_OS](https://system76.com/pop){:target="_blank"}
 *   [Favorite Shell: Zsh](http://zsh.sourceforge.net/){:target="_blank"}
 
 
