@@ -9,6 +9,7 @@ Hi, I'm Brandon, I love building software and making things work! I am skilled i
 # Education
 
 Bachelor of Science: Computer Science - San Jose State University Fall 2019
+![SJSU-Logo](assets/SJSU-logo.png)
 
 # Skills
 
