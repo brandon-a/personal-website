@@ -6,6 +6,13 @@ layout: default
 
 Hi, I'm Brandon, I love building software and making things work! I am skilled in Java and C++ and I have experience in Python, C, and Javascript. You may see some of the projects I have worked on below. Please contact me using the link above or contact me on LinkedIn, I will get back to you promptly.
 
+# Experience
+
+## Cisco - Software Engineer
+March 2020 - Present
+
+Working on automation and augmentation in the Customer and Seller Experience - IT space.
+
 # Education
 
 Bachelor of Science: Computer Science - San Jose State University Fall 2019
