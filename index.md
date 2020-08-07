@@ -9,7 +9,8 @@ Hi, I'm Brandon, I love building software and making things work! I am skilled i
 # Experience
 
 ## Cisco - Software Engineer
-March 2020 - Present
+
+**March 2020 - Present**
 
 Working on automation and augmentation in the Customer and Seller Experience - IT space.
 
